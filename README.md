@@ -19,5 +19,4 @@ src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=op
 I'm a Computer Science Major with Minors in Math and Electrical Engineering at the University of Vermont. Have some project ideas in mind, those will be coming soon!  
 
 ## Contact
-oacook38@gmail.com  
-[Linkedin](www.linkedin.com/in/owen-cook-2794932a2)
+oacook38@gmail.com
