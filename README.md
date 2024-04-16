@@ -16,7 +16,4 @@ src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&l
 
 # Welcome, I'm Owen
 
-I'm a Computer Science Major with Minors in Math and Electrical Engineering at the University of Vermont. Have some project ideas in mind, those will be coming soon!  
-
-## Contact
-oacook38@gmail.com
+I'm a Computer Science Major with Minors in Math and Electrical Engineering at the University of Vermont. Have some project ideas in mind, those will be coming soon!
