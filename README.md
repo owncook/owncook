@@ -19,10 +19,15 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim
 src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="CLion"
 src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-
-
 </p>
 
 # Welcome, I'm Owen
+## About Me
+* Sophomore at the University of Vermont
+* Computer Science Major
+* Electrical Engineering and Pure Math Minors
 
-I'm a Computer Science Major with Minors in Math and Electrical Engineering at the University of Vermont. Have some project ideas in mind, those will be coming soon!
+## Announcements
+Have some project ideas in mind, those will be coming soon!
+
+## Links
