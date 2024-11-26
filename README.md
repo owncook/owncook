@@ -23,11 +23,9 @@ src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&log
 
 # Welcome, I'm Owen
 ## About Me
-* Sophomore at the University of Vermont
-* Computer Science Major
-* Electrical Engineering and Pure Math Minors
+* Junior at the University of Vermont
+* Computer Science and Electrical Engineering Majors
+* Pure Math Minor
 
 ## Announcements
-Have some project ideas in mind, those will be coming soon!
-
-## Links
+I have some project ideas in mind, those will be coming soon!
