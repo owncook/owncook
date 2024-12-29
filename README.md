@@ -27,7 +27,5 @@ src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&log
 * Computer Science and Electrical Engineering Majors
 * Pure Mathematics Minor
 
-# Currently
+## Currently
 Working on [MBTA LED Map](https://github.com/owncook/mbta_map)
-## Announcements
-I have some project ideas in mind, those will be coming soon!
